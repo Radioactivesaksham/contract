@@ -1,4 +1,5 @@
-##Ethereum Smart Contract
+# Ethereum Smart Contract
 
-#Resources
-Code from<a href="https://www.youtube.com/watch?v=js319cgJvrQ">here.</a>
+## Links
+
+Video Tutorial :- <a href="https://www.youtube.com/watch?v=js319cgJvrQ"> here</a>
