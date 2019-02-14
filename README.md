@@ -1,4 +1,5 @@
-##Ethereum Smart Contract
+## Ethereum Smart Contract
 
-#Resources
+# Resources
+
 Code from<a href="https://www.youtube.com/watch?v=js319cgJvrQ">here.</a>
